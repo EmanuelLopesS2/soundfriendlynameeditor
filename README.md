@@ -1,4 +1,4 @@
-# Audio Device Name Editor
+# Audio Device Friendly Name Editor
 
 A minimalist Windows application to edit audio device friendly names with a dark-themed interface.
 
@@ -10,10 +10,6 @@ A minimalist Windows application to edit audio device friendly names with a dark
 - Clean and simple design
 - Mouse wheel scrolling support
 
-## Screenshots
-
-[Add your screenshots here]
-
 ## Requirements
 
 - Windows OS
@@ -23,7 +19,7 @@ A minimalist Windows application to edit audio device friendly names with a dark
 ## Installation
 
 1. Clone this repository:
- git clone https://github.com/yourusername/audio-device-name-editor.git
+ git clone https://github.com/EmanuelLopesS2/soundfriendlynameeditor
 
 ## Usage
 
@@ -47,10 +43,6 @@ A minimalist Windows application to edit audio device friendly names with a dark
 - Windows only
 - Requires restart to apply changes
 - Must be run with administrator privileges
-
-## Contributing
-
-Feel free to open issues or submit pull requests with improvements.
 
 ## Acknowledgments
 

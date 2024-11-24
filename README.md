@@ -24,10 +24,10 @@ A minimalist Windows application to edit audio device friendly names with a dark
 2. Install requirements (python only)
  `pip install -r requirements.txt`
 
-3. Execute main.py
+3. Execute main.py, or
  `python.exe main.py`
 
-3.1. Or Powershell
+4. Execute Powershell
  `.\main.ps1`
 
 ## Usage

@@ -13,7 +13,7 @@ A minimalist Windows application to edit audio device friendly names with a dark
 ## Requirements
 
 - Windows OS
-- Python 3.x
+- Python 3.x (for the .py file only)
 - Administrator privileges (required to edit device names)
 
 ## Installation
@@ -21,11 +21,13 @@ A minimalist Windows application to edit audio device friendly names with a dark
 1. Clone this repository:
  `git clone https://github.com/EmanuelLopesS2/soundfriendlynameeditor`
 
-2. Install requirements
+2. Install requirements (python only)
  `pip install -r requirements.txt`
 
 3. Execute main.py
  `python.exe main.py`
+3. Or Powershell
+ `.\main.ps1`
 
 ## Usage
 
@@ -33,12 +35,12 @@ A minimalist Windows application to edit audio device friendly names with a dark
 2. The application will display a list of all parent devices connected to your computer
 3. Select a device from the list
 4. Enter the new name in the text box
-5. Click "Confirm" to apply the changes
+5. Click "Confirm" to apply the changes (python). Or press Enter to confirm (Powershell)
 6. Restart Windows
 
 ## Technical Details
 
-- Built with Python and Tkinter
+- Built with Python, Tkinter and Powershell
 - Uses PowerShell commands to interact with Windows device management
 - Requires administrator privileges to modify device names
 - Custom dark theme implementation

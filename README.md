@@ -26,6 +26,7 @@ A minimalist Windows application to edit audio device friendly names with a dark
 
 3. Execute main.py
  `python.exe main.py`
+
 3.1. Or Powershell
  `.\main.ps1`
 

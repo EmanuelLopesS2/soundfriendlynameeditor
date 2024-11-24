@@ -19,15 +19,23 @@ A minimalist Windows application to edit audio device friendly names with a dark
 ## Installation
 
 1. Clone this repository:
+
+
  `git clone https://github.com/EmanuelLopesS2/soundfriendlynameeditor`
 
 2. Install requirements (python only)
+
+
  `pip install -r requirements.txt`
 
 3. Execute main.py, or
+
+
  `python.exe main.py`
 
 4. Execute Powershell
+
+
  `.\main.ps1`
 
 ## Usage

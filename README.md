@@ -28,12 +28,12 @@ A minimalist Windows application to edit audio device friendly names with a dark
 
  `pip install -r requirements.txt`
 
-3. Execute main.py, or
+3. Execute main.py
 
 
  `python.exe main.py`
 
-4. Execute Powershell
+4. Or, just straight up execute Powershell in an Admin Terminal
 
 
  `.\main.ps1`
